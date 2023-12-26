@@ -1,0 +1,6 @@
+.videoTag {
+    /* width: 100%; */
+    position: absolute;
+    height: 100vh;
+    z-index: -1;
+};

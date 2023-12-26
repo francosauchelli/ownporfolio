@@ -1,0 +1,34 @@
+{
+    "pages": [
+        { 
+            "id": 1,
+            "title": "Projects",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum aliquid aspernatur, adipisci vel itaque, ipsa omnis voluptatum porro dolorem.",
+            "img": "/assets/pages-options/projects.jpg"
+        },
+        { 
+            "id": 2,
+            "title": "About Me",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum aliquid aspernatur, adipisci vel itaque, ipsa omnis voluptatum porro dolorem.",
+            "img": "/assets/pages-options/my-bio.jpg"
+        },
+        { 
+            "id": 3,
+            "title": "Education",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum aliquid aspernatur, adipisci vel itaque, ipsa omnis voluptatum porro dolorem.",
+            "img": "/assets/pages-options/education.jpg"
+        },
+        { 
+            "id": 4,
+            "title": "Work Experience",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum aliquid aspernatur, adipisci vel itaque, ipsa omnis voluptatum porro dolorem.",
+            "img": "/assets/pages-options/experience.jpg"
+        },
+        { 
+            "id": 5,
+            "title": "Social Links",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum aliquid aspernatur, adipisci vel itaque, ipsa omnis voluptatum porro dolorem.",
+            "img": "/assets/pages-options/social-media.jpg"
+        }
+    ]
+}
